@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016 Schibsted Media Group. All rights reserved
+ * Sacha Cohen-Scali - 2017
  */
 package datastructures
 
